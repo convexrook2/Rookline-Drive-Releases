@@ -6,11 +6,11 @@ This repository hosts installer downloads only. Product source code, ZIP package
 
 ## Download
 
-[Download Drive 0.6.31](https://github.com/convexrook2/Rookline-Drive-Releases/releases/download/v0.6.31/Rookline-Drive-Setup.exe)
+[Download Drive 0.6.32](https://github.com/convexrook2/Rookline-Drive-Releases/releases/download/v0.6.32/Rookline-Drive-Setup.exe)
 
-**0.6.31 corrects the 0.6.30 installer startup failure. Use 0.6.31 for installation and upgrades.** The exact published installer was tested upgrading an existing 0.6.29 installation before publication, preserving saved HUD layouts and settings.
+**0.6.32 keeps accepted HUD panels visible across head movement, view cycling and Garage returns.** The exact published installer passed an actual upgrade from 0.6.31 before publication, preserving saved HUD layouts, settings and startup preferences. It also retains the installer-startup correction introduced in 0.6.31; the failed 0.6.30 installer should not be used.
 
-This is a **VR test pre-release** with eight configurable HUD views, Previous/Next cycling and locked first-use panel defaults. In-game/headset cycle acceptance remains pending. Choose cycle membership and panel contents in **Settings → HUD views**, then click **Save views**. Optional Windows/minimized startup and verified manual updates remain available.
+This is a **VR test pre-release** with eight configurable HUD views, Previous/Next cycling and locked first-use panel defaults. In-headset acceptance of this visibility correction remains pending. The separate whole-cockpit tracking jump and cancellation exception are not claimed fixed. Choose cycle membership and panel contents in **Settings → HUD views**, then click **Save views**. Windows/minimized startup and verified manual updates remain available.
 
 See [Releases](https://github.com/convexrook2/Rookline-Drive-Releases/releases) for evidence and earlier versions.
 
