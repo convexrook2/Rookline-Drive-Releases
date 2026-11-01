@@ -6,12 +6,23 @@ This repository hosts installer downloads only. Product source code, ZIP package
 
 ## Download
 
-[Download Drive 0.6.32](https://github.com/convexrook2/Rookline-Drive-Releases/releases/download/v0.6.32/Rookline-Drive-Setup.exe)
+[Download Drive 0.6.33](https://github.com/convexrook2/Rookline-Drive-Releases/releases/download/v0.6.33/Rookline-Drive-Setup.exe)
 
-**0.6.32 keeps accepted HUD panels visible across head movement, view cycling and Garage returns.** The exact published installer passed an actual upgrade from 0.6.31 before publication, preserving saved HUD layouts, settings and startup preferences. It also retains the installer-startup correction introduced in 0.6.31; the failed 0.6.30 installer should not be used.
+**0.6.33 is a VR test prerelease.** It adds offline HUD layout setup, selectable
+player markers, brief information toasts, current track condition, dashboard Exit
+Drive and optional minimize to the notification area. It also includes the
+Follow/head-up map and rain-artwork corrections. Interpolation remains off.
 
-This is a **VR test pre-release** with eight configurable HUD views, Previous/Next cycling and locked first-use panel defaults. In-headset acceptance of this visibility correction remains pending. The separate whole-cockpit tracking jump and cancellation exception are not claimed fixed. Choose cycle membership and panel contents in **Settings → HUD views**, then click **Save views**. Windows/minimized startup and verified manual updates remain available.
+Headset acceptance of the new Exit/tray controls, bindings/markers, exact local-yellow
+timing/coverage and sustained Follow-map smoothness remains open. Current-user installation and installed startup were verified with saved layout
+and settings preserved; upgrade and headset acceptance remain open. On-screen Save placement remains the
+accepted editing workflow; physical controller A saving is a secondary known issue.
 
-See [Releases](https://github.com/convexrook2/Rookline-Drive-Releases/releases) for evidence and earlier versions.
+Choose **Settings > About > Application > Minimize to notification area** and
+**Save preferences** to enable tray minimization. Start minimized is separate.
+
+See [Releases](https://github.com/convexrook2/Rookline-Drive-Releases/releases) for
+the candidate notes, checksum and earlier versions. Existing0.6.32 test and0.6.27
+stable releases are retained; the failed0.6.30 installer should not be used.
 
 Windows x64. The installer includes the .NET runtime; WebView2 and SteamVR are required for VR mode. The installer is unsigned.
