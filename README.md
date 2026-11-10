@@ -1,7 +1,7 @@
 # Rookline Drive
 
-Live telemetry and a VR HUD for Le Mans Ultimate.
+A shared VR and desktop HUD for Le Mans Ultimate.
 
-[Download the latest Drive installer for Windows](https://github.com/convexrook2/Rookline-Drive-Releases/releases/latest).
+[Download Drive for Windows](https://github.com/convexrook2/Rookline-Drive-Releases/releases/latest) · [Take the tour](https://convexrook2.github.io/Rookline-Drive-Site/tour.html)
 
-The latest release page includes the installer and a summary of what changed.
+The release page includes the installer and the complete list of changes.
